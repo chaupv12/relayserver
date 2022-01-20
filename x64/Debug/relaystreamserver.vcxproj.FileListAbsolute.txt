@@ -1,0 +1,2 @@
+C:\Users\chau\source\repos\chaupv12\relayserver\x64\Debug\RelayStreamServer.exe
+C:\Users\chau\source\repos\chaupv12\relayserver\x64\Debug\RelayStreamServer.pdb
